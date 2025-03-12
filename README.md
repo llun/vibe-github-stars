@@ -1,4 +1,4 @@
-# GitHub Stars Categorizer
+# Vibe GitHub Stars
 
 A Node.js application that fetches starred repositories from a GitHub account and categorizes them into predefined categories.
 
@@ -17,8 +17,8 @@ The application categorizes repositories into the following categories:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/github-stars-categorizer.git
-cd github-stars-categorizer
+git clone https://github.com/llun/vibe-github-stars.git
+cd vibe-github-stars
 
 # Install dependencies
 npm install
